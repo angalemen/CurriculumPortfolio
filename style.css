@@ -9,7 +9,7 @@
 
 body {
     background: #0f0f0a;
-    color: #ededed;
+    color:  #ffca00;
 }
 
 header {
@@ -28,14 +28,14 @@ header {
 
 .logo {
     font-size: 25px;
-    color: #ededed;
+    color: #ffca00;
     text-decoration: none;
     font-weight: 600;
 }
 
 .navbar a {
     font-size: 18px;
-    color: #ededed;
+    color:  #ffca00;
     text-decoration: none;
     font-weight: 500;   
     margin-left: 35px;
@@ -44,11 +44,11 @@ header {
 
 .navbar a:hover,
 .navbar .active {
-    color: #00caff;
+    color: #ffca00;
 }
 
 .home {
-    background-image: url(./assets/background.jpg);
+    background-image: url(./assets/imagedes.png);
     background-repeat: no-repeat;
     background-size: 100%;
 
@@ -71,11 +71,11 @@ header {
 .home-content h3 {
     font-size: 32px;
     font-weight: 700;
-    color: #00caff;
+    color: #ffca00;
 }
 
 .home-content p {
-    color: #ededed;
+    color: #ffca00;
     font-size: 16px;
     margin: 20px 0 40px;
 }
@@ -94,8 +94,8 @@ header {
     align-items: center;
     width: 150px;
     height: 100%;
-    background: #00caff;
-    border: 2px solid #00caff;
+    background: #ffca00;
+    border: 2px solid #ffca00;
     border-radius: 8px;
     font-size: 19px;
     color: #0f0f0a;
@@ -108,20 +108,20 @@ header {
 }
 
 .btn-box a:hover {
-    color: #00caff;    
+    color: #ffca00;
 }
 
 .btn-box a:nth-child(2) {
     background: transparent;
-     color: #00caff;
+     color: #ffca00;
 }
 
 .btn-box a:nth-child(2)::before {
-    background: #00caff;
+    background: #ffca00;
 }
 
 .btn-box a:nth-child(2):hover {
-    color: #0f0f0a;
+    color: #ffca00;
 }
 
 .btn-box a::before {
@@ -131,7 +131,7 @@ header {
     left: 0;
     width: 0;
     height: 100%;
-    background: #0f0f0a;
+    background: #ffca00;
     z-index: -1;
     transition: .5s;
 }
@@ -156,10 +156,10 @@ header {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #00caff;
+    border: 2px solid ##ffca00;
     border-radius: 50%;
     font-size: 20px;
-    color: #00caff;
+    color: #ffca00;
     text-decoration: none;
     z-index: 1;
     overflow: hidden;
@@ -167,7 +167,7 @@ header {
 }
 
 .home-sci a:hover{
-    color: #0f0f0a;
+    color: #ffca00;
 }
 
 .home-sci a::before {
@@ -177,7 +177,7 @@ header {
     left: 0;
     width: 0%;
     height: 100%;
-    background: #00caff;
+    background: #ffca00;
     z-index: -1;
     transition: .5s;
 
@@ -256,10 +256,10 @@ header {
     justify-content: center;
     align-items: center;
     background: transparent;
-    border: 2px solid #00caff;
+    border: 2px solid #ffca00;
     border-radius: 8px;
     font-size: 19px;
-    color: #00caff;
+    color: #ffca00;
     text-decoration: none;
     font-weight: 600;
     letter-spacing: 1px;
@@ -269,6 +269,6 @@ header {
   }
 
   .download__buttom :hover{
-    background: #00caff;
-    color: #0f0f0a;
+    background: #ffca00;
+    color:  #ffca00;
   }
